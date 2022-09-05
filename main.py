@@ -1,4 +1,4 @@
-print('hello')
+print('__hello__')
 print('name=Aleksei')
 print('\t''\t'' ''*''\t''\t''\t''\t''\t''\t''\t''\t''\t''\t''\t''\t''\t''\t''\t''\t''\t''*''\n''\t''\t'
       '*'' ''*''\t''\t''*''\t''\t''*'' ''*'' ''*'
@@ -18,5 +18,5 @@ print('Escape''\t''sequences''\n'
       '\\n''\t''New'' ''lein''\n'
       '\\t''\t''Horizontal'' ''tab''\n'
       '\\\\t'' ''Backslash'' ''\\t''\n'
-      '\\"''\t''Double'' ''quotation'' ''mark''\n'
-      '\\')
+      '\\"''\t''Double'' ''quotation'' ''mark''"''\n'
+      '\\`''Single'' ''quotation'' ''mark''`')
